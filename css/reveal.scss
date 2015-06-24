@@ -1316,4 +1316,41 @@ body {
 	visibility: hidden;
 }
 
+/* CUSTOM */
+// .code-container{
+// 	background-color: #fff;
+// }
+//
+.reveal{
+	.code-container img{
+		width:100px;
+		background:#efefef !important;
+	}
+	.full-width{
+		width:100% !important;
+
+
+
+
+
+
+
+
+	}
+
+	.command,.alias{
+
+		margin:10px auto !important;
+		padding-left: 10px!important;
+		text-align: left;
+		background: #123;
+	}
+	.alias{
+		font-size:0.8em;
+		background: #456;
+	}
+	.divider{
+		margin-right: 10px;
+	}
+}
 
