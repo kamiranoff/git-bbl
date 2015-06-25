@@ -30,7 +30,12 @@ html, body {
 body {
   position: relative;
   line-height: 1;
-  background-color: #fff;
+  text-shadow: 1px 1px 1px #123;
+  border-radius: 10px solid red;
+  padding-left: 0px;
+  box-shadow: 3px 2px 2px #111;
+  font-family: sans-serif;
+  background-color: #234;
   color: #000; }
 
 /*********************************************
